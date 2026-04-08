@@ -43,7 +43,7 @@ This project is a full-stack web application designed to provide an interactive 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/garvshas/pro.git
+   git clone 
    ```
 2. Navigate to the project directory:
    ```bash
@@ -90,4 +90,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries, please contact the repository owner at [garvit and harshit](https://github.com/Garvitjain729).
+For any inquiries, please contact the repository owner at [bhavesh](https://github.com/bhavessh).
